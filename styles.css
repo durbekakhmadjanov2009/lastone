@@ -24,7 +24,7 @@ body.dark-mode {
 .cv-template {
     width: 595px; /* A4 kengligi */
     min-height: 842px; /* A4 balandligi */
-    background: white;
+    background: #1f2937; /* OLDIN: white */
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     overflow: hidden;
